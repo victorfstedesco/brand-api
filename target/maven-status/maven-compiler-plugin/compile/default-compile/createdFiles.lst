@@ -1,0 +1,10 @@
+org\acme\Filme.class
+org\acme\FilmeResource.class
+org\acme\MovieResource.class
+org\acme\SearchFilmeResponse.class
+org\acme\Book.class
+org\acme\BookResource.class
+org\acme\Movie.class
+org\acme\MyEntity.class
+org\acme\SearchBookResponse.class
+org\acme\GreetingResource.class
